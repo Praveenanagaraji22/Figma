@@ -132,9 +132,10 @@ flex-grow: 0;
 ```
 ## Output:
 
-![Output](./OUTA1.png)
-![Output](./OUTA3.png)
-![Output](./OUTA2.png)
+![OUTA1](https://user-images.githubusercontent.com/119393514/215275204-d6666576-b17e-4950-a6da-d0e2b1699f50.jpeg)
+![OUTA3](https://user-images.githubusercontent.com/119393514/215275218-00b5dddb-3216-4725-8024-48904fe202d2.jpeg)
+![OUTA2](https://user-images.githubusercontent.com/119393514/215275238-f6e45970-cb72-4d10-9284-6f85f9483f08.jpeg)
+
 
 
 ## RESULT:
