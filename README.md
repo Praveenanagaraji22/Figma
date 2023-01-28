@@ -130,10 +130,11 @@ flex-grow: 0;
 
 
 ```
-## OUTPUT:
-![OUTPUT](./OUTA1.png)
-![OUTPUT](./OUTA3.png)
-![OUTPUT](./OUTA2.png)
+## Output:
+![Output](./OUTA1.png)
+![Output](./OUTA3.png)
+![Output](./OUTA2.png)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
