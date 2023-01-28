@@ -31,7 +31,7 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
-## code:
+## Code:
 ```
 
 /* Home Page */
@@ -131,6 +131,7 @@ flex-grow: 0;
 
 ```
 ## Output:
+
 ![Output](./OUTA1.png)
 ![Output](./OUTA3.png)
 ![Output](./OUTA2.png)
